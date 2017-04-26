@@ -1,0 +1,5 @@
+<recipe xmlns="http://recipy.hoverview.org/default">
+    <copies of="src/main/css/*"/>
+    <copies of="src/main/xslt/*"/>
+    <artifact project="tabpanel" name="www"/>
+</recipe>
